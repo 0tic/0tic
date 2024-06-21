@@ -7,4 +7,4 @@ presentation, including providing oral and written communication on findings.
 # Contact Information
 Name: Isaac Young \
 Github Username: 0tic \ 
-E-mail: ify8002@gmail.com \
+E-mail: ify8002@gmail.com
