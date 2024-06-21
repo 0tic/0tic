@@ -5,6 +5,6 @@ Analytical experience involves conducting original research, analyzing, compilin
 presentation, including providing oral and written communication on findings.
 
 # Contact Information
-Name: Isaac Young
-Github Username: 0tic
-E-mail: ify8002@gmail.com
+Name: Isaac Young \
+Github Username: 0tic \ 
+E-mail: ify8002@gmail.com \
